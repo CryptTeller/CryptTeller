@@ -14,6 +14,7 @@ I build analytics functions that turn data into better product and business deci
 - BI and analytics platforms
 - Data strategy and governance
 - Analytics team building and enablement
+- Applied AI & analytics automation
 
 ## Selected impact
 
@@ -21,6 +22,16 @@ I build analytics functions that turn data into better product and business deci
 - **+15%** revenue and **+12%** monetization through customer journey analytics
 - **-45%** infrastructure cost through cloud and pipeline optimization
 - Scaled an analytics team from **5 to 30 FTE**
+
+## Applied AI in Analytics
+
+At SOFTSWISS, I led internal AI-enabled automation initiatives focused on reducing routine analytical work and improving self-service:
+
+- Enterprise knowledge and analytics assistants grounded on Confluence, Jira and approved collaboration data.
+- Business Q&A and self-service reporting through conversational interfaces.
+- Automated Jira intake and SLA workflows for analytics requests.
+- Automated conversion of analytical tasks and solutions into structured Confluence documentation.
+- Internal Claude and Gemini copilots for code support, database Q&A and analytical workflows.
 
 ## Hands-on toolkit
 
