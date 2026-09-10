@@ -1,6 +1,6 @@
 # Andrey Gubanov
 
-**Head of Data & Analytics | Product Analytics, BI & ML | SQL & Python**
+**Head of Data & Analytics | Product Analytics, BI, ML & Applied AI | SQL & Python**
 
 I build analytics functions that turn data into better product and business decisions.
 
