@@ -1,16 +1,47 @@
-## Hi there 👋
+# Andrey Gubanov
 
-<!--
-**CryptTeller/CryptTeller** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Head of Data & Analytics | Product Analytics, BI & ML | SQL & Python**
 
-Here are some ideas to get you started:
+I build analytics functions that turn data into better product and business decisions.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+15+ years in analytics, from hands-on analysis to building and scaling teams of 5–30 FTE.
+
+## Focus
+
+- Product & customer analytics
+- Experimentation and A/B testing
+- Forecasting and predictive analytics
+- BI and analytics platforms
+- Data strategy and governance
+- Analytics team building and enablement
+
+## Selected impact
+
+- **+52%** forecast accuracy through predictive planning
+- **+15%** revenue and **+12%** monetization through customer journey analytics
+- **-45%** infrastructure cost through cloud and pipeline optimization
+- Scaled an analytics team from **5 to 30 FTE**
+
+## Hands-on toolkit
+
+`Python` `SQL` `pandas` `NumPy` `dbt` `Power BI` `Tableau` `Snowflake` `BigQuery` `Databricks` `Airflow` `MLflow` `ClickHouse` `AWS S3`
+
+## Selected projects
+
+### Payment Provider Ranking
+Data-driven ranking of payment methods using transaction success, volume, user coverage, historical performance and rolling metrics.
+
+### Gamification Winner Selection
+Weighted winner selection and reward allocation based on player behavior, value metrics and configurable business rules.
+
+### Stochastic Game Simulation
+Monte Carlo-style simulation of a dice-driven game mechanic to evaluate progression, event frequency and balance.
+
+## Links
+
+[LinkedIn](https://www.linkedin.com/in/andreydgubanov)  
+[Resume](https://github.com/CryptTeller/resume/blob/main/Andrey_Gubanov_CV.pdf)
+
+---
+
+The public repositories below are selected historical portfolio projects intended to demonstrate analytical thinking and hands-on Python rather than represent my current production codebase.
