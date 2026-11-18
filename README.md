@@ -1,58 +1,45 @@
 # Andrey Gubanov
 
-**Head of Data & Analytics | Product Analytics, BI, ML & Applied AI | SQL & Python**
+# Data & AI Strategy · Business & Technology Transformation · Head of Data & Analytics
 
-I build analytics functions that turn data into better product and business decisions.
+I connect business priorities to data, AI and operating-model change. Over 15+ years, I’ve led analytics teams and transformation initiatives across technology, cybersecurity, consumer products and retail.
 
-15+ years in analytics, from hands-on analysis to building and scaling teams of 5–30 FTE.
+My focus is increasingly on business value realization: choosing the right decisions to improve, aligning stakeholders, building scalable capabilities and making the effect measurable.
 
-## Focus
+# Selected impact
 
-- Product & customer analytics
-- Experimentation and A/B testing
-- Forecasting and predictive analytics
-- BI and analytics platforms
-- Data strategy and governance
-- Analytics team building and enablement
-- Applied AI & analytics automation
+|Leadership and transformation  |Reported outcome                                                                             |
+|-------------------------------|---------------------------------------------------------------------------------------------|
+|Analytics organization scale-up|**5 → 30 FTE**                                                                               |
+|Predictive planning            |**+52%** forecast accuracy                                                                   |
+|Customer / product analytics   |**+15%** revenue and **+12%** monetization improvements associated with analytics initiatives|
+|Infrastructure optimization    |**−45%** infrastructure cost                                                                 |
 
-## Selected impact
+Career results are reported from my resume; details and attribution are discussed in context. These figures are not results of the public notebooks below.
 
-- **+52%** forecast accuracy through predictive planning
-- **+15%** revenue and **+12%** monetization through customer journey analytics
-- **-45%** infrastructure cost through cloud and pipeline optimization
-- Scaled an analytics team from **5 to 30 FTE**
+# What I focus on
 
-## Applied AI in Analytics
+• Data & AI strategy: investment cases, opportunities, prioritization and measurable business outcomes.
+• Business transformation: analytics operating models, cross-functional execution and adoption.
+• Decision intelligence: forecasting, experimentation, customer behavior and commercial performance.
+• Applied AI: enterprise analytics assistants, self-service questions and workflow automation.
 
-At SOFTSWISS, I led internal AI-enabled automation initiatives focused on reducing routine analytical work and improving self-service:
+# Public decision-support work
 
-- Enterprise knowledge and analytics assistants grounded on Confluence, Jira and approved collaboration data.
-- Business Q&A and self-service reporting through conversational interfaces.
-- Automated Jira intake and SLA workflows for analytics requests.
-- Automated conversion of analytical tasks and solutions into structured Confluence documentation.
-- Internal Claude and Gemini copilots for code support, database Q&A and analytical workflows.
+|Project                                                                    |Management question                                           |Methods                                                              |
+|---------------------------------------------------------------------------|--------------------------------------------------------------|---------------------------------------------------------------------|
+|[Payment Provider Ranking](https://github.com/CryptTeller/PSP)             |Which payment methods should be prioritized by market?        |Reliability, reach, transaction volume and recent-performance scoring|
+|[Gamification Winner Selection](https://github.com/CryptTeller/LuckyWinner)|How should incentives be allocated under business constraints?|Segmentation, weighted sampling, reward constraints                  |
+|[Stochastic Game Simulation](https://github.com/CryptTeller/DiceSimulation)|How can randomness affect game progression and balancing?     |Monte Carlo simulation and distribution analysis                     |
 
-## Hands-on toolkit
+These are historical technical prototypes showing analytical reasoning, not my current production work. No actual business uplift is claimed for these repositories.
 
-`Python` `SQL` `pandas` `NumPy` `dbt` `Power BI` `Tableau` `Snowflake` `BigQuery` `Databricks` `Airflow` `MLflow` `ClickHouse` `AWS S3`
+#Technical foundation
 
-## Selected projects
+Python · SQL · Power BI · Tableau · dbt · Snowflake · BigQuery · Databricks · Airflow · MLflow
 
-### Payment Provider Ranking
-Data-driven ranking of payment methods using transaction success, volume, user coverage, historical performance and rolling metrics.
+Connect
 
-### Gamification Winner Selection
-Weighted winner selection and reward allocation based on player behavior, value metrics and configurable business rules.
+LinkedIn
 
-### Stochastic Game Simulation
-Monte Carlo-style simulation of a dice-driven game mechanic to evaluate progression, event frequency and balance.
-
-## Links
-
-[LinkedIn](https://www.linkedin.com/in/andreydgubanov)  
-[Resume](https://github.com/CryptTeller/resume/blob/main/Andrey_Gubanov_CV.pdf)
-
----
-
-The public repositories below are selected historical portfolio projects intended to demonstrate analytical thinking and hands-on Python rather than represent my current production codebase.
+> Professional direction, 2027–2029: business and technology transformation, Data & AI strategy, operating model design and executive advisory.
