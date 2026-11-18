@@ -40,6 +40,6 @@ Python · SQL · Power BI · Tableau · dbt · Snowflake · BigQuery · Databric
 
 Connect
 
-LinkedIn
+[LinkedIn](https://www.linkedin.com/in/andreydgubanov)
 
 > Professional direction, 2027–2029: business and technology transformation, Data & AI strategy, operating model design and executive advisory.
